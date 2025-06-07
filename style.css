@@ -178,7 +178,13 @@ body{
 
 /* phones */
 @media (max-width: 700px) {
- 
+    
+    /* navbar */
+
+    .navbar a{
+        font-size: 22px;
+    }
+
     /* titles */
 
     .title{
